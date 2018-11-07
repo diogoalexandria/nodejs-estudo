@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-estudo",
+  "version": "1.0.0",
+  "description": "estudo-node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogoalexandria/nodejs-estudo.git"
+  },
+  "author": "diogo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogoalexandria/nodejs-estudo/issues"
+  },
+  "homepage": "https://github.com/diogoalexandria/nodejs-estudo#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
